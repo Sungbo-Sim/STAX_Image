@@ -1,0 +1,2 @@
+# images folder
+This .gitkeep file ensures the images/ directory is tracked by git. Place your image files inside the images/ directory.
